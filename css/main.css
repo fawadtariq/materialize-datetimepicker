@@ -1,0 +1,27 @@
+.brand-logo
+{
+    background-image: url(../img/materialize.svg);
+    height: 70%;
+    top: 15%;
+    width: 150px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.usage-capture
+{
+    background-image: url(../img/usage-capture.png);
+    width: 100%;
+    height: 100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.card img{
+    width: 100%;
+}
+
+#datetime
+{
+    border-bottom: 1px solid #fff;
+    color: #fff
+}
