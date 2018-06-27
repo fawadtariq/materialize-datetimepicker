@@ -6,5 +6,6 @@ Simply add jQuery, Materialize & MaterializeDateTimePicker to your site and writ
 
 ![alt usage](https://raw.githubusercontent.com/fawadtariq/materialize-datetimepicker/master/img/usage-capture.PNG)
 
+# Example
 
-
+[Click Here](https://fawadtariq.github.io/materialize-datetimepicker/)
